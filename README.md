@@ -44,8 +44,10 @@ Full-Charge-Alarm-Charge-Meter/
 
 This project will use:
 - HTML
-- JavaScript (Battery Status API)
+- JavaScript
 - CSS
+
+**Note:** The Battery Status API has been deprecated in most modern browsers. Alternative approaches for battery monitoring will be explored during development.
 
 ## Contributing
 

@@ -1,12 +1,14 @@
 # Full Charge Alarm & Charge Meter
 
-A simple web-based application for monitoring battery charge levels and providing alerts when the battery is fully charged.
+A web-based application project for monitoring battery charge levels and providing alerts when the battery is fully charged.
 
 ## Description
 
-This project provides a full charge alarm and charge meter functionality to help users monitor their device's battery status and get notified when charging is complete.
+This project aims to provide full charge alarm and charge meter functionality to help users monitor their device's battery status and get notified when charging is complete.
 
-## Features
+**Note:** This project is currently in its early stages of development.
+
+## Planned Features
 
 - Battery charge level monitoring
 - Full charge alarm notifications
@@ -38,8 +40,9 @@ Full-Charge-Alarm-Charge-Meter/
 └── README.md          # Project documentation
 ```
 
-## Technologies Used
+## Technologies
 
+This project will use:
 - HTML
 - JavaScript (Battery Status API)
 - CSS
